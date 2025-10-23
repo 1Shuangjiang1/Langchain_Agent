@@ -27,8 +27,7 @@
 **a. 克隆项目**
 
 ```bash
-git clone [你的 GitHub 项目 URL]
-cd [你的项目目录]
+git clone [https://github.com/1Shuangjiang1/Langchain_Agent.git]
 ````
 
 **b. 创建并激活虚拟环境** (推荐)
