@@ -18,8 +18,7 @@
 
 关于本项目的设计思路、LangChain Agent 的核心概念（如 ReAct、Tool Calling）以及代码的详细分步解析，请参考我的个人博客文章：
 
-[博客](https://github.com/1Shuangjiang1/Langchain_Agent](https://1shuangjiang1.github.io/p/%E5%9F%BA%E4%BA%8Elangchain%E6%90%AD%E5%BB%BA-agent-%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%AE%9E%E6%88%98/)
-
+[blog](https://1shuangjiang1.github.io/p/%E5%9F%BA%E4%BA%8Elangchain%E6%90%AD%E5%BB%BA-agent-%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%AE%9E%E6%88%98/)
 
 ## 快速上手
 
